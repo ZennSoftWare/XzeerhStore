@@ -75,7 +75,7 @@ export function HomePage() {
                 Katalog toko online premium apps yang cepat, tegas, dan langsung order via WhatsApp 24 jam respon.
               </h1>
               <p className="mt-5 max-w-2xl text-base leading-8 text-black/75 sm:text-lg">
-                {Xzeerh Store} dibangun dengan gaya neobrutalism, tanpa login, tanpa backend, tanpa payment gateway,
+                {SITE_NAME} dibangun dengan gaya neobrutalism, tanpa login, tanpa backend, tanpa payment gateway,
                 Menyediakan layanan premium yang murah serta membangun kepercayaan terhadap layanan yang tersedia. 
               </p>
 
