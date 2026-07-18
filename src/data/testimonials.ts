@@ -14,6 +14,21 @@ export const testimonials: Testimonial[] = [
   {
     name: 'Raka',
     role: 'Freelancer',
-    comment: 'Strukturnya rapi dan gampang dikembangkan lagi kalau nanti mau ditambah admin panel.',
+    comment: 'Strukturnya rapi dan gampang digunakan. Cukup dikembangkan lagi kalau nanti mau ditambah admin panel.',
+  },
+  {
+    name: 'Rangga',
+    role: 'Pengangguran',
+    comment: 'Beli disini enak banget jir bahkan murah sedapnyo, dan cocok untuk dompet tipis/dompet pelajar.',
+  },
+  {
+    name: 'Syifa',
+    role: 'Freelancer',
+    comment: 'Beli disini layanan nya ramah + cepat serta ramah budget, suka banget deh!.',
+  },
+  {
+    name: 'Razeerh',
+    role: 'Owner',
+    comment: 'Gw owner kalian member 😏.',
   },
 ];
