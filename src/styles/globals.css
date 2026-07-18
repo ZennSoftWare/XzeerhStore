@@ -1,1 +1,36 @@
-p
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-white text-black font-sans antialiased;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::selection {
+  background: #ffd84d;
+  color: #111111;
+}
+
+.neobrutal-card {
+  @apply rounded-brutal border-4 border-black bg-white shadow-brutalLg;
+}
+
+.neobrutal-card-sm {
+  @apply rounded-brutal border-4 border-black bg-white shadow-brutal;
+}
+
+.container-page {
+  @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+}
