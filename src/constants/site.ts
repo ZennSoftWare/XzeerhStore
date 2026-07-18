@@ -1,5 +1,5 @@
 export const SITE_NAME = 'Premium Store';
-export const WHATSAPP_NUMBER = '6281234567890';
+export const WHATSAPP_NUMBER = '6283865255697';
 
 export const NAV_LINKS = [
   { label: 'Keunggulan', href: '#keunggulan' },
