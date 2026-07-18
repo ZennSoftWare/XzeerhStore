@@ -70,13 +70,13 @@ export function HomePage() {
         <section id="beranda" className="container-page py-8 sm:py-12 lg:py-16">
           <div className="grid items-center gap-6 lg:grid-cols-[1.1fr_0.9fr]">
             <div className="animate-fadeUp">
-              <Badge className="mb-4 bg-lemon">Premium Apps Catalog</Badge>
+              <Badge className="mb-4 bg-lemon">Xzeerh Store</Badge>
               <h1 className="max-w-3xl text-4xl font-black tracking-tight sm:text-5xl lg:text-6xl">
-                Katalog premium apps yang cepat, tegas, dan langsung order via WhatsApp.
+                Katalog toko online premium apps yang cepat, tegas, dan langsung order via WhatsApp 24 jam respon.
               </h1>
               <p className="mt-5 max-w-2xl text-base leading-8 text-black/75 sm:text-lg">
-                {SITE_NAME} dibangun dengan gaya neobrutalism, tanpa login, tanpa backend, tanpa payment gateway,
-                dan tetap siap dikembangkan ke dashboard admin di masa depan.
+                {Xzeerh Store} dibangun dengan gaya neobrutalism, tanpa login, tanpa backend, tanpa payment gateway,
+                Menyediakan layanan premium yang murah serta membangun kepercayaan terhadap layanan yang tersedia. 
               </p>
 
               <div className="mt-6 flex flex-col gap-3 sm:flex-row">
