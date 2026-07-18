@@ -222,8 +222,8 @@ export function HomePage() {
       <div className="container-page py-6">
         <Card className="flex flex-col items-start gap-3 sm:flex-row sm:items-center sm:justify-between">
           <div>
-            <p className="font-black">Siap ditingkatkan ke admin dashboard?</p>
-            <p className="text-sm text-black/70">Struktur project ini sudah dipisah agar mudah dikembangkan tanpa merombak arsitektur utama.</p>
+            <p className="font-black">Siap untuk membeli disini?</p>
+            <p className="text-sm text-black/70">Jika anda merasa ragu dengan kami maka jangan order, jika anda merasa tidak ragu maka orderlah layanan yang kami sediakan, 100% amanah dan terpercaya.</p>
           </div>
           <Button onClick={handleHeroOrder}>
             <MessageCircle className="h-4 w-4" />
