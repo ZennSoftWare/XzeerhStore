@@ -28,7 +28,7 @@ export const products: Product[] = [
     name: 'Wink Premium',
     description: 'Upscale Video Enhancer & Editor serta ultra HD dalam kompresi gambar.',
     highlights: ['Durasi beragam', 'Harga ramah', 'Dibuat untuk order instan'],
-    accent: 'black',
+    accent: 'yellow',
     variants: [
       { label: '7 Hari', price: 'Rp6.000', badge: '7 Hari' },
       { label: '30 Hari', price: 'Rp20.000', badge: '30 Hari' },
