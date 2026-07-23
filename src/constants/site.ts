@@ -1,5 +1,5 @@
 export const SITE_NAME = 'Xzeerh Store';
-export const WHATSAPP_NUMBER = '6283865255697';
+export const WHATSAPP_NUMBER = '6285119134072';
 
 export const NAV_LINKS = [
   { label: 'Keunggulan', href: '#keunggulan' },
